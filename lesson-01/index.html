@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>React Hello World</title>
+  </head>
+  <body>
+    <div id="react-app"></div>
+    <div id="js-app"></div>
+
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script>
+      // add h1 with React
+      const reactHeading = React.createElement('h1', null, 'Hello from REACT');
+      const container = document.querySelector('#react-app');
+      const root = ReactDOM.createRoot(container);
+      root.render(reactHeading);
+      console.log(reactHeading);
+    </script>
+    <script>
+      // add h1 with Vanilla JS
+      const jsHeading = document.createElement('h1');
+      jsHeading.textContent = 'Hello from Vanilla JS';
+      document.querySelector('#js-app').appendChild(jsHeading);
+      console.log(jsHeading);
+    </script>
+  </body>
+</html>
