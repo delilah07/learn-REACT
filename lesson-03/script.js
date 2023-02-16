@@ -1,10 +1,11 @@
-const App = () => {
-  const [btnText, setBtnText] = React.useState('Click me');
+const App = (props) => {
+  const { initialBtnText, resultClassesList } = props;
+  const [btnText, setBtnText] = React.useState(initialBtnText);
   const [classesList, setClassesList] = React.useState('');
 
   const onBtnClick = () => {
     setBtnText(`Hello from React, ${Math.random()}`);
-    setClassesList('green-btn');
+    setClassesList(resultClassesList);
   };
 
   return (
@@ -18,4 +19,6 @@ const App = () => {
 
 const container = document.querySelector('#react-app');
 const root = ReactDOM.createRoot(container);
-root.render(<App />);
+root.render(
+  <App initialBtnText="Click me, please" resultClassesList="green-btn" />
+);
