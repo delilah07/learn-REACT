@@ -6,5 +6,5 @@
 2. lesson 2 - add h1 with JSX
    https://delilah07.github.io/learn-REACT/lesson-02/
 
-3. lesson 3 - add button
+3. lesson 3 - add button using React component
    https://delilah07.github.io/learn-REACT/lesson-02/
