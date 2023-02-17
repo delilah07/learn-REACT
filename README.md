@@ -9,5 +9,8 @@
 3. lesson 3 - add button using React component
    https://delilah07.github.io/learn-REACT/lesson-03/
 
-4. lesson 3 - React App
+4. lesson 4 - Template for React App
    https://delilah07.github.io/learn-REACT/lesson-04/
+
+5. lesson 5 - Reusable components
+   https://delilah07.github.io/learn-REACT/lesson-05/
