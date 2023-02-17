@@ -16,4 +16,7 @@
    https://delilah07.github.io/learn-REACT/lesson-05/
 
 6. lesson 6 - Component Properties
-   https://delilah07.github.io/learn-REACT/lesson-05/
+   https://delilah07.github.io/learn-REACT/lesson-06/
+
+7. lesson 7 - JSX Return
+   https://delilah07.github.io/learn-REACT/lesson-07/
