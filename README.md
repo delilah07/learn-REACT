@@ -14,3 +14,6 @@
 
 5. lesson 5 - Reusable components
    https://delilah07.github.io/learn-REACT/lesson-05/
+
+6. lesson 6 - Component Properties
+   https://delilah07.github.io/learn-REACT/lesson-05/
