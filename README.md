@@ -20,3 +20,9 @@
 
 7. lesson 7 - JSX Return
    https://delilah07.github.io/learn-REACT/lesson-07/
+
+8. lesson 8 - Change State
+   https://delilah07.github.io/learn-REACT/lesson-08/
+
+9. lesson 9 - Change State using Properties
+   https://delilah07.github.io/learn-REACT/lesson-09/
