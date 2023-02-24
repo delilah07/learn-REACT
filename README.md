@@ -26,3 +26,6 @@
 
 9. lesson 9 - Change State using Properties
    https://delilah07.github.io/learn-REACT/lesson-09/
+
+10. lesson 10 - Map array method
+    https://delilah07.github.io/learn-REACT/lesson-10/
