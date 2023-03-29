@@ -32,3 +32,6 @@
 
 11. lesson 11 - Map array of Objects
     https://delilah07.github.io/learn-REACT/lesson-11/
+
+12. lesson 12 - Logical AND Operator
+    https://delilah07.github.io/learn-REACT/lesson-12/
