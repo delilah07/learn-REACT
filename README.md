@@ -29,3 +29,6 @@
 
 10. lesson 10 - Map array method
     https://delilah07.github.io/learn-REACT/lesson-10/
+
+11. lesson 11 - Map array of Objects
+    https://delilah07.github.io/learn-REACT/lesson-11/
