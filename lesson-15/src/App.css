@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+h1 {
+  font-size: 60px;
+  margin: 20px;
+}
+button {
+  padding: 15px;
+  font-size: 30px;
+  border-radius: 5px;
+  margin: 20px auto;
+  border: none;
+  cursor: pointer;
+  max-width: 200px;
+}
+button:hover {
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+}
+form {
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin: 15px;
+  padding: 10px;
+  font-size: 20px;
+}
