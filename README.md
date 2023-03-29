@@ -35,3 +35,6 @@
 
 12. lesson 12 - Logical AND Operator
     https://delilah07.github.io/learn-REACT/lesson-12/
+
+13. lesson 13 - React Fragment
+    https://delilah07.github.io/learn-REACT/lesson-13/
