@@ -53,3 +53,6 @@
 
 18. lesson 18 - JSONPlaceholder Posts
     https://delilah07.github.io/learn-REACT/lesson-18/
+
+19. lesson 19 - JSONPlaceholder Posts, async await
+    https://delilah07.github.io/learn-REACT/lesson-19/
