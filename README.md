@@ -50,3 +50,6 @@
 
 17. lesson 17 - fetch and useEffect
     https://delilah07.github.io/learn-REACT/lesson-17/
+
+18. lesson 18 - JSONPlaceholder Posts
+    https://delilah07.github.io/learn-REACT/lesson-18/
