@@ -56,3 +56,6 @@
 
 19. lesson 19 - JSONPlaceholder Posts, async await
     https://delilah07.github.io/learn-REACT/lesson-19/
+
+20. lesson 20 - CSS Modules
+    https://delilah07.github.io/learn-REACT/lesson-20/
