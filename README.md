@@ -47,3 +47,6 @@
 
 16. lesson 16 - Children Property
     https://delilah07.github.io/learn-REACT/lesson-16/
+
+17. lesson 17 - fetch and useEffect
+    https://delilah07.github.io/learn-REACT/lesson-17/
