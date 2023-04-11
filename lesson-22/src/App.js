@@ -18,12 +18,23 @@ function App() {
   function deleteTodoHandler(id) {
     setTodos(todos.filter((el) => el.id !== id));
   }
+  function toggleTodoHandler(id) {
+    setTodos(
+      todos.map((el) =>
+        el.id === id ? { ...el, isCompleted: !el.isCompleted } : { ...el }
+      )
+    );
+  }
 
   return (
     <div className="App">
       <h1>ToDo App</h1>
       <TodoForm addTodo={addTodoHandler} />
-      <TodoList todos={todos} deleteTodo={deleteTodoHandler} />
+      <TodoList
+        todos={todos}
+        deleteTodo={deleteTodoHandler}
+        toggleTodo={toggleTodoHandler}
+      />
     </div>
   );
 }
