@@ -62,3 +62,6 @@
 
 21. lesson 21 - ToDo App
     https://delilah07.github.io/learn-REACT/lesson-21/build/
+
+22. lesson 22 - ToDo App V2
+    https://delilah07.github.io/learn-REACT/lesson-22/build/
