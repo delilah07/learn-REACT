@@ -61,4 +61,4 @@
     https://delilah07.github.io/learn-REACT/lesson-20/
 
 21. lesson 21 - ToDo App
-    https://delilah07.github.io/learn-REACT/lesson-21/
+    https://delilah07.github.io/learn-REACT/lesson-21/build/
