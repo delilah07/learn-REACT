@@ -65,3 +65,9 @@
 
 22. lesson 22 - ToDo App V2
     https://delilah07.github.io/learn-REACT/lesson-22/build/
+
+23. lesson 23 - Dark Template for React App
+    https://delilah07.github.io/learn-REACT/lesson-23/
+
+24. lesson 24 - React Router
+    https://delilah07.github.io/learn-REACT/lesson-24/
