@@ -13,52 +13,52 @@
    https://delilah07.github.io/learn-REACT/lesson-04/
 
 5. lesson 5 - Reusable components
-   https://delilah07.github.io/learn-REACT/lesson-05/
+   https://github.com/delilah07/learn-REACT/tree/main/lesson-05
 
 6. lesson 6 - Component Properties
-   https://delilah07.github.io/learn-REACT/lesson-06/
+   https://github.com/delilah07/learn-REACT/tree/main/lesson-06
 
 7. lesson 7 - JSX Return
-   https://delilah07.github.io/learn-REACT/lesson-07/
+   https://github.com/delilah07/learn-REACT/tree/main/lesson-07
 
 8. lesson 8 - Change State
-   https://delilah07.github.io/learn-REACT/lesson-08/
+   https://github.com/delilah07/learn-REACT/tree/main/lesson-08
 
 9. lesson 9 - Change State using Properties
-   https://delilah07.github.io/learn-REACT/lesson-09/
+   https://github.com/delilah07/learn-REACT/tree/main/lesson-09
 
 10. lesson 10 - Map array method
-    https://delilah07.github.io/learn-REACT/lesson-10/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-10
 
 11. lesson 11 - Map array of Objects
-    https://delilah07.github.io/learn-REACT/lesson-11/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-11
 
 12. lesson 12 - Logical AND Operator
-    https://delilah07.github.io/learn-REACT/lesson-12/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-12
 
 13. lesson 13 - React Fragment
-    https://delilah07.github.io/learn-REACT/lesson-13/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-13
 
 14. lesson 14 - Uncontrolled Input
-    https://delilah07.github.io/learn-REACT/lesson-14/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-14
 
 15. lesson 15 - Controlled Input
-    https://delilah07.github.io/learn-REACT/lesson-15/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-15
 
 16. lesson 16 - Children Property
-    https://delilah07.github.io/learn-REACT/lesson-16/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-16
 
 17. lesson 17 - fetch and useEffect
-    https://delilah07.github.io/learn-REACT/lesson-17/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-17
 
 18. lesson 18 - JSONPlaceholder Posts
-    https://delilah07.github.io/learn-REACT/lesson-18/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-18
 
 19. lesson 19 - JSONPlaceholder Posts, async await
-    https://delilah07.github.io/learn-REACT/lesson-19/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-19
 
 20. lesson 20 - CSS Modules
-    https://delilah07.github.io/learn-REACT/lesson-20/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-20
 
 21. lesson 21 - ToDo App
     https://delilah07.github.io/learn-REACT/lesson-21/build/
@@ -67,7 +67,10 @@
     https://delilah07.github.io/learn-REACT/lesson-22/build/
 
 23. lesson 23 - Dark Template for React App
-    https://delilah07.github.io/learn-REACT/lesson-23/
+    https://github.com/delilah07/learn-REACT/tree/main/lesson-23
 
 24. lesson 24 - React Router
-    https://delilah07.github.io/learn-REACT/lesson-24/
+    https://delilah07.github.io/learn-REACT/lesson-24/build
+
+25. lesson 25 - React Router 2
+    https://delilah07.github.io/learn-REACT/lesson-25/build

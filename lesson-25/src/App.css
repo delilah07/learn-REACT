@@ -41,3 +41,9 @@ header {
   color: lightyellow;
   text-decoration: none;
 }
+.course a {
+  text-decoration: none;
+}
+.course:hover a {
+  text-decoration: underline;
+}
