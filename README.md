@@ -74,3 +74,6 @@
 
 25. lesson 25 - React Router 2
     https://delilah07.github.io/learn-REACT/lesson-25/build
+
+26. lesson 26 - Context API
+    https://delilah07.github.io/learn-REACT/lesson-26/build

@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+h1 {
+  font-size: 90px;
+  margin: 20px;
+}
+button {
+  padding: 15px;
+  font-size: 30px;
+  border-radius: 5px;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+}
+a {
+  color: lightblue;
+  font-size: 35px;
+  margin: 0 10px;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 5rem;
+  list-style: none;
+  padding: 10px;
+}
+header {
+  background-color: rgb(12, 99, 99);
+}
+/* used as default with NavLink */
+.active {
+  color: lightcoral;
+  text-decoration: double;
+}
+.activeLink {
+  color: lightyellow;
+  text-decoration: none;
+}
+.course a {
+  text-decoration: none;
+}
+.course:hover a {
+  text-decoration: underline;
+}
